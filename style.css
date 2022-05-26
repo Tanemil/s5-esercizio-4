@@ -1,0 +1,17 @@
+body main{
+    text-align: center;
+}
+
+body div{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-items: center;
+    margin-top: 3rem;
+}
+
+body div div{
+    margin-top: 1rem;
+    display: flex;
+    flex-direction: row;
+}
